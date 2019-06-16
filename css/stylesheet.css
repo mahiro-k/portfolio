@@ -66,7 +66,6 @@
 }
 
 .skill-item {
-  height: 60px;
   margin: 0 10px;
   margin-bottom: 20px;
   float: left;
@@ -107,12 +106,15 @@
 }
 
 .btn {
+  width: 130px;
+  height: 40px;
   border-radius: 5px;
   text-decoration: none;
   padding: 8px 24px;
   color: white;
   display: inline-block;
   opacity: 0.8;
+  margin: 0 10px 10px 0;
 }
 
 .twitter {
@@ -121,7 +123,6 @@
 
 .github {
   background-color: #000000;
-  margin-left: 10px;
 }
 
 .fab {
