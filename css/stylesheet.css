@@ -33,6 +33,9 @@
 .top-wrapper h2{
   font-size: 30px;
 }
+.profile-wrapper {
+  height: 240px;
+}
 
 .prof-icon img{
   width: 160px;
@@ -41,6 +44,11 @@
 
 .prof-icon {
   float: left;
+}
+
+.prof-intro {
+  float: left;
+  margin-left: 40px;
 }
 
 .skill-item {
