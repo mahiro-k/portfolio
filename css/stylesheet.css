@@ -34,6 +34,15 @@
   font-size: 30px;
 }
 
+.prof-icon img{
+  width: 160px;
+  border-radius: 80px;
+}
+
+.prof-icon {
+  float: left;
+}
+
 .skill-item {
   height: 60px;
   margin-left: 30px;
